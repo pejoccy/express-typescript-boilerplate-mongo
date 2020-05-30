@@ -1,0 +1,9 @@
+{
+  "type": "mongodb",
+  "host": "127.0.0.1",
+  "url": "http://127.0.0.1:2017/readyapp",
+  "port": 27017,
+  "username": "",
+  "password": "",
+  "database": "readyapp"
+}
